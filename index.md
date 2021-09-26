@@ -14,6 +14,17 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+- 👋 Hi, # I’m @tienthai0511
+- 👀 I’m interested in ...
+
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+tienthai0511/tienthai0511 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
 - Bulleted
 - List
